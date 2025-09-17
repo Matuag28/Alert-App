@@ -1,0 +1,5 @@
+{
+  "name": "Alerting & Notification Platform",
+  "description": "A lightweight alerting and notification system that balances admin configurability with user control. Admins can create targeted alerts, and end-users receive persistent notifications until acknowledged or snoozed.",
+  "requestFramePermissions": []
+}
